@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "hundred_days_of_rust_development"
+name = "ex2-temperature-converter"
 version = "0.1.0"
